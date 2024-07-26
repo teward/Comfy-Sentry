@@ -1,0 +1,8 @@
+{
+  "https": true,
+  "host": "sentry.io",
+  "key": "KEY",
+  "project": "PROJECT",
+  "enable_tracing": true,
+  "sample_rate": 1.0
+}
