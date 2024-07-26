@@ -177,5 +177,5 @@ Comfy-Sentry.zip
 # Comfy-Sentry: DO NOT include actual config files here!
 sentry_config.json
 
-# Do not include test.py file, as it contains creds.
+# Do not include test.py file.
 test.py
