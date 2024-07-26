@@ -165,6 +165,7 @@ node.tar.gz
 
 # Coverity analysis tools create a cov-int directory, we don't want to include that in git.
 cov-int/
+config.xml
 Comfy-Sentry.tar
 Comfy-Sentry.tgz
 Comfy-Sentry.lzma
