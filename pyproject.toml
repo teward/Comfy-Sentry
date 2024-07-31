@@ -1,0 +1,15 @@
+[project]
+name = "comfy-sentry"
+description = "ComfyUI custom node that activates integration with a Sentry instance for loading. Has no actual nodes."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = ["sentry-sdk"]
+
+[project.urls]
+Repository = "https://github.com/teward/Comfy-Sentry"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "teward"
+DisplayName = "Comfy-Sentry"
+Icon = ""

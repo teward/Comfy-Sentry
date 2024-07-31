@@ -180,3 +180,5 @@ sentry_config.json
 
 # Do not include test.py file.
 test.py
+
+node.zip
